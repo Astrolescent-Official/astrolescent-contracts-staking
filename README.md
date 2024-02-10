@@ -1,2 +1,2 @@
-# astrolescent-contracts-staking
+# Astrolescent Staking contract
  
